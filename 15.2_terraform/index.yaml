@@ -1,0 +1,3 @@
+#cloud-config
+runcmd:
+  - [ sh, -c, "echo '<img src='https://storage.yandexcloud.net/aleksandr-molokov-01-10-2023/photo.jpg'>' > /var/www/html/index.html" ]
