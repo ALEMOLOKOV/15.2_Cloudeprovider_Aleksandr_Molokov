@@ -25,7 +25,8 @@
 
 ### Ответ
 
-#### ![Terraform files](https://github.com/ALEMOLOKOV/15.2_Cloudprovider_Aleksandr_Molokov/tree/788fa7d0d6821a5d1f8e7018e4b83fa9e98e1fcc/15.2_terraform)
+#### ![Terraform_files](https://github.com/ALEMOLOKOV/15.2_Cloudprovider_Aleksandr_Molokov/tree/788fa7d0d6821a5d1f8e7018e4b83fa9e98e1fcc/15.2_terraform)
+
 
 #### Ресурсы в YandexCloud
 
