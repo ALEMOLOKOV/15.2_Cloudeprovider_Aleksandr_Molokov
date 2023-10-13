@@ -25,10 +25,11 @@
 
 ### Ответ
 
-#### ![Terraform_files](https://github.com/ALEMOLOKOV/15.2_Cloudprovider_Aleksandr_Molokov/tree/788fa7d0d6821a5d1f8e7018e4b83fa9e98e1fcc/15.2_terraform)
-
+#### Terraform манифесты
+![Terraform_files](15.2_terraform)
 
 #### Ресурсы в YandexCloud
+
 
 ![YC ресурсы общие](https://github.com/ALEMOLOKOV/15.2_Cloudprovider_Aleksandr_Molokov/assets/109212419/2a7181cf-02e4-494e-ba6a-787d64df1855)
 
